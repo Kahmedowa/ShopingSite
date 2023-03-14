@@ -1,0 +1,44 @@
+/* Navbar */
+.navbar-nav a {
+  font-size: 18px;
+}
+
+/* Image */
+img {
+  width: 200px;
+}
+
+/* Carts */
+
+.carts {
+  padding: 1rem;
+  
+}
+
+.product {
+  background-color: #222;
+  margin-bottom: 1rem;
+  display: flex;
+  padding: 1rem;
+  gap: 1rem;
+  width: 40rem;
+  align-items: flex-start;
+  color: rgb(176, 247, 129);
+}
+  img {
+    width: 9rem;
+    object-fit: contain;
+  }
+
+  .info {
+    padding: 0 1.5rem;
+  }
+    .title {
+      font-size: 1.3rem;
+      margin-bottom: 1rem;
+    }
+
+    .description {
+      font-size: 1rem;
+    }
+  
