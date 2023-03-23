@@ -1,10 +1,10 @@
 import React from "react";
-import 
+import { useSelector } from "react-redux";
 
 const Cart = () => {
     return (
         <div>
-
+// looking in Net how can i continue this code !!!
         </div>
     );
 }
